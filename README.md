@@ -1,16 +1,15 @@
-### Hi there 👋
+ Hello 👋
+ 
+ I'm Jeewanthi Wijesinghe, a girl with a curious mind and fascinated heart for Data Science world.
 
-<!--
-**Jwij90/Jwij90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>My Projects</b>
+<hr><ul>
+<li><a href="https://github.com/Jwij90/Pomodoro-Timer">Pomodoro Timer</a>, a timer with 25 miniutes breaks including 5, 15  minutes long breaks.</li>
+<br><li><a href="https://github.com/Jwij90/To-Do-List-Timer">To-Do List/Pomodoro timer</a> , full project where pomodoro timer includes with reminder and to-do List.</li>
+</ul>
+<br>And see more projects on this GitHub profile!<br>
 
-Here are some ideas to get you started:
+<br><b>Contact Me</b>
+<hr>
+<br>You can reach me at jthisarapali97@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
