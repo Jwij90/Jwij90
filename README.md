@@ -1,6 +1,6 @@
  <h2>Hello 👋</h2>
  
- I'm Jeewanthi Wijesinghe, a girl with a curious mind and fascinated heart for Data Science world.
+ I'm Jeewanthi Wijesinghe, a girl with a curious mind and fascinated heart for Computer Science world.
 
 <h3>My Projects</h3>
 <hr><ul>
